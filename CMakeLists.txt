@@ -16,6 +16,9 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MotorCommandArray.msg"
   "msg/MotorState.msg"
   "msg/MotorStateArray.msg"
+  "msg/SystemStatus.msg"
+  "msg/RsuState.msg"
+  "msg/RsuStateArray.msg"
   DEPENDENCIES std_msgs
 )
 

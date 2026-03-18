@@ -1,3 +1,4 @@
+# Not for direct use
 uint16 motor_id
 float32 torque
 float32 position
